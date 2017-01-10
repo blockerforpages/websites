@@ -6,16 +6,18 @@ body {
 	font-family: 'Roboto Slab', serif;
 	max-width: 100%;
 	margin: 0 auto;
-	color: #244e5a;
+	color: white;
 	background: #d9f9eb;
 	}
 	
 span {
-	font-size: 50%;
+	font-size: 500%;
+	display: block;
 }
 
 h1 {
-	font-size: 30%;
+	font-size: 300%;
+	display: block;
 }
 
 img {
