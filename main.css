@@ -1,0 +1,19 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+	font-family: 'Roboto Slab', serif;
+	max-width: 100%;
+	margin: 0 auto;
+	color: #244e5a;
+	background: #d9f9eb;
+	}
+	
+span {
+	font-size: 50%;
+}
+
+h1 {
+	font-size: 30%;
+}
